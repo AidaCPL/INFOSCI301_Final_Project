@@ -2,7 +2,7 @@
 
 This repository includes datasets for analyzing misinformation, focusing on environmental and general contexts. Below are the descriptions of the datasets, their origins, and how they contribute to the research.
 
-## **1. [FakeNewsNet](/Users/aidacamacho/Desktop/github/INFOSCI301_Final_Project/Data/politifact_fake.csv)**
+## **1. [FakeNewsNet](politifact_fake.csv)**
 ### **Description**
 - **Source**: FakeNewsNet is a comprehensive dataset curated by researchers at Arizona State University and Penn State University.
 - **Content**: It includes news articles and related social media data focusing on misinformation in two domains:
