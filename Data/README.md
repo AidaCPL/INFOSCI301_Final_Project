@@ -21,7 +21,7 @@ This repository includes datasets for analyzing misinformation, focusing on envi
 - Compare the propagation dynamics from the social context (when available) with patterns in environmental misinformation datasets.
 
 
-## **2. [Climate-FEVER](/Users/aidacamacho/Desktop/github/INFOSCI301_Final_Project/Data/climate-fever-dataset-r1.jsonl)**
+## **2. [Climate-FEVER](climate-fever-dataset-r1.jsonl)**
 ### **Description**
 - **Source**: Created by researchers from ETH Zurich, Google Research, and the University of Maryland.
 - **Content**: A dataset of 1,535 real-world climate-related claims annotated with supporting, refuting, or insufficient evidence labels.
@@ -39,7 +39,7 @@ This repository includes datasets for analyzing misinformation, focusing on envi
 - Incorporate its annotated claims into clustering and visualization tools to highlight trends and disputes in climate misinformation.
 
 
-## **3. ["Understanding and Combating Misinformation Across 16 Countries" Dataset](/Users/aidacamacho/Desktop/github/INFOSCI301_Final_Project/Data/Main.csv)**
+## **3. ["Understanding and Combating Misinformation Across 16 Countries" Dataset](Main.csv)**
 ### **Description**
 - **Source**: Collected as part of a global study analyzing misinformation trends across 16 countries.
 - **Content**:
