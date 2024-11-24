@@ -20,12 +20,15 @@
 *Figure 1: Map of the research proposal. Created with Whimsical*
 
 ## **Table of Contents**
-* [Overview](./README.md/Overview)
-* [Repository Structure]((./README.md/Repository Structure))
-* Setup Instructions
-* Example Usage
-* Visualizations
-* Acknowledgments
+* [Overview](./README.md#Overview)
+* [Repository Structure](./README.md#Repository-Structure)
+* [Key Features](./README.md#Key-Features)
+* [Datasets](./README.md#Datasets)
+* [Applications](./README.md#Applications)
+* [Getting Started](./README.md#Getting-Started)
+* [Contributing](./README.md#Contributing)
+* [License](./README.md#License)
+* [References](./README.md#References)
 
 
 ## **Overview**
