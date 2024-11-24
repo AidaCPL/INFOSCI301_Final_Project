@@ -1,4 +1,4 @@
-# **Visualizing User Credibility and Cultural Influences in Misinformation Detection**
+# **Visualizing User Credibility and Cultural Influences in Misinformation Detection Repository**
 
 ## Project Information
 
@@ -13,11 +13,20 @@
 - **Project Summary**:
 <p align="center">
   <kbd>
-    <img src="" alt="Flowchart1" width="600"/>
+    <img src="mindmap.png" alt="Flowchart1" width="600"/>
   </kbd>
 </p>
 
 *Figure 1: Map of the research proposal. Created with Whimsical*
+
+## **Table of Contents**
+* [Overview](./README.md/Overview)
+* [Repository Structure]((./README.md/Repository Structure))
+* Setup Instructions
+* Example Usage
+* Visualizations
+* Acknowledgments
+
 
 ## **Overview**
 
