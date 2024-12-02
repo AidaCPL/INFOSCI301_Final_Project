@@ -134,7 +134,7 @@ pip install -r requirements.txt
 ## **Final Poster**
 <p align="center">
   <kbd>
-    <img src="Results/Final_Project_poster.pdf" alt="Flowchart1" width="600"/>
+    <img src="Results/INFOSCI301_Final_Poster.png" alt="Final Poster" width="600"/>
   </kbd>
 </p>
 ---
