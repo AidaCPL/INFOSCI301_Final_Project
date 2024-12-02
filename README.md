@@ -2,7 +2,7 @@
 
 ## Project Information
 
-- **Author**: Tessa Luong, Aida Camacho Ponce de Leon, Shouzhifan Zhu
+- **Authors**: Tessa Luong, Aida Camacho Ponce de Leon, Shouzhifan Zhu
 
 - **Instructor**: Professor Luyao Zhang, Duke Kunshan University
 
