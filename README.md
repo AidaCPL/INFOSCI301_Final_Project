@@ -137,6 +137,7 @@ pip install -r requirements.txt
     <img src="Results/INFOSCI301_Final_Poster.png" alt="Final Poster" width="600"/>
   </kbd>
 </p>
+
 ---
 
 ## **Contributing**
