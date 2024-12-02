@@ -69,7 +69,7 @@ pip install pandas numpy matplotlib seaborn plotly shap ipywidgets sklearn
 ## **Files in the Repository**
 - **`data_preprocessing.ipynb`**: Scripts for loading and aligning datasets.
 - **`visualization_tools.py`**: Functions for creating static and interactive visualizations.
-- **`machine_learning.py`**: Includes machine learning pipelines and SHAP analysis.
+- **`machine_learning.ipynb`**: Includes machine learning pipelines and SHAP analysis.
 - **`/map`**: HTML file for the geospatial map that one can download and run on browser.
 ---
 
