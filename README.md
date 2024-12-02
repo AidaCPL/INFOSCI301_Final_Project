@@ -26,6 +26,7 @@
 * [Datasets](./README.md#Datasets)
 * [Applications](./README.md#Applications)
 * [Getting Started](./README.md#Getting-Started)
+* [Final Poster](./README.md#Final-Poster)
 * [Contributing](./README.md#Contributing)
 * [License](./README.md#License)
 * [References](./README.md#References)
@@ -40,17 +41,14 @@ This repository focuses on research aimed at visualizing user credibility and cu
 ## **Repository Structure**
 
 - **[`Data/`](Data/README.md)**: Contains the datasets used in the project, including:
-  - **FakeNewsNet**: Metadata on misinformation from news articles and social media.
   - **Climate-FEVER**: Validated climate-related claims with evidence annotations.
   - **Global Misinformation Dataset**: Behavioral and demographic data from 16 countries.
 - **[`Code/`](Code/README.md)**: Python scripts for data preprocessing, integration, and visualization.
-  - **`data_preprocessing.py`**: Cleans and aligns datasets for integration.
-  - **`visualization_tools.py`**: Contains functions for generating scatterplots, network diagrams, choropleth maps, and more.
-  - **`clustering_analysis.py`**: Implements clustering methods for exploring misinformation dynamics.
-- **`notebooks/`**: Jupyter notebooks for exploratory data analysis and visualization.
-- **`results/`**: Output visualizations and analysis results.
-- **`docs/`**: Documentation on dataset details, methodology, and user instructions.
-
+   - **`data_preprocessing.ipynb`**: Scripts for loading and aligning datasets.
+   - **`visualization_tools.py`**: Functions for creating static and interactive visualizations.
+   - **`machine_learning.ipynb`**: Includes machine learning pipelines and SHAP analysis.
+   - **`/map`**: HTML file for the geospatial map that one can download and run on browser.
+- **[`Results/`](Results/README.md)**: Output visualizations and analysis results.
 ---
 
 ## **Key Features**
@@ -62,17 +60,9 @@ This repository focuses on research aimed at visualizing user credibility and cu
   - Scatterplots for misinformation amplification patterns.
   - Network diagrams for dissemination pathways.
   - Choropleth maps for regional vulnerability analysis.
-  - Line charts for tracking misinformation detection trends over time.
-- **Clustering Techniques**:
-  - Identifies patterns in user behavior and misinformation themes using advanced clustering methods like DBSCAN and Spectral Clustering.
-
 ---
 
 ## **Datasets**
-
-### **FakeNewsNet**
-- Multi-domain dataset with metadata on misinformation from news articles and social media.
-- Includes sources like PolitiFact and GossipCop.
 
 ### **Climate-FEVER**
 - Focuses on climate-related misinformation with claim-evidence annotations categorized as SUPPORTS, REFUTES, or NOT_ENOUGH_INFO.
@@ -126,7 +116,7 @@ This repository focuses on research aimed at visualizing user credibility and cu
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/misinformation-visualization.git
+git clone https://github.com/AidaCPL/INFOSCI301_Final_Project.git
 cd misinformation-visualization
 pip install -r requirements.txt
 ```
@@ -134,17 +124,19 @@ pip install -r requirements.txt
 ### **Usage**
 1. **Preprocess Data**:
    ```bash
-   python scripts/data_preprocessing.py
+   python scripts/data_preprocessing.ipynb
    ```
 2. **Generate Visualizations**:
    ```bash
    python scripts/visualization_tools.py
    ```
-3. **Run Clustering Analysis**:
-   ```bash
-   python scripts/clustering_analysis.py
-   ```
-
+---
+## **Final Poster**
+<p align="center">
+  <kbd>
+    <img src="Results/Final_Project_poster.pdf" alt="Flowchart1" width="600"/>
+  </kbd>
+</p>
 ---
 
 ## **Contributing**
@@ -159,6 +151,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## **References**
 This project builds upon datasets and methodologies outlined in:
-- FakeNewsNet: [Dataset Details](https://github.com/KaiDMML/FakeNewsNet)
 - Climate-FEVER: [Dataset Paper](https://arxiv.org/abs/2005.00857)
 - Global Misinformation Dataset: [Understanding and combatting misinformation across 16 countries on six continents](https://doi.org/10.1038/s41562-023-01641-6)
