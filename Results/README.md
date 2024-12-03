@@ -12,6 +12,10 @@ This folder contains the key outputs and findings of the research project **"Vis
    - Description: Includes high-resolution images of key graphs and charts used in the analysis, such as geospatial maps, SHAP visualizations, and network diagrams, as well as links to the deployed interactive visualizations. These visuals illustrate core findings and serve as supplementary materials for the poster.  
    - Folder: `Network/`  
    - Description: Includes high-resolution images of the all the networks generated as well as the gephi files. 
+   - Deployed Visualizations:
+      - [Intellect vs. Social Media Use](https://dash-dashboard-7nzc.onrender.com)
+      - [Interactive Network](https://dash-dashboard-1.onrender.com)
+      - [Interactive Map](Code/map/map.html)
 
 
 ---
