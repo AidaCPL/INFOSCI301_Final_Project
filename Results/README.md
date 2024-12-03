@@ -15,7 +15,7 @@ This folder contains the key outputs and findings of the research project **"Vis
    - Deployed Visualizations:
       - [Intellect vs. Social Media Use](https://dash-dashboard-7nzc.onrender.com)
       - [Interactive Network](https://dash-dashboard-1.onrender.com)
-      - [Interactive Map](Code/map/map.html)
+      - [Interactive Map](/Code/map/map.html)
 
 
 ---
