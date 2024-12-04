@@ -143,7 +143,6 @@ pip install -r requirements.txt
 ## **Contributing**
 We welcome contributions to enhance the repository. Please submit issues or pull requests to suggest improvements or report bugs.
 
----
 
 ## **License**
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
@@ -154,3 +153,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 This project builds upon datasets and methodologies outlined in:
 - Climate-FEVER: [Dataset Paper](https://arxiv.org/abs/2005.00857)
 - Global Misinformation Dataset: [Understanding and combatting misinformation across 16 countries on six continents](https://doi.org/10.1038/s41562-023-01641-6)
+
