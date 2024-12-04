@@ -21,10 +21,7 @@ This folder contains the conclusions and discussions from the **"Visualizing Use
 
 ---
 
-
-## Peer Evaluation: Info301 Week7 Presentation**
-
-**Plan of Action for Final Project Improvement: Next Steps Moving Forward**
+## Peer Evaluation: Info301 Week7 Presentation
 
 Based on the insightful peer evaluations, we have identified specific areas to improve and enhance our project. Here is a detailed plan of action, structured around actionable suggestions:
 
