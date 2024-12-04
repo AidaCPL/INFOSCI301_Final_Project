@@ -10,7 +10,7 @@ This folder contains the conclusions and discussions from the **"Visualizing Use
 
 2. [**Peer Evaluation Feedback**](./README.md#peer-evaluation-info301-week7-presentation)
    - Description: Highlights constructive feedback received during peer evaluations. These insights informed the project’s improvements, ensuring clarity, relevance, and usability of visualizations and methodologies.
-   
+
    2.1 **Plan of Action for Project Improvement**
     - Description: Details actionable steps based on peer feedback to refine the project. Improvements include enhanced methodology explanation, clearer visualization annotations, and added interactivity.  
 
@@ -24,45 +24,64 @@ This folder contains the conclusions and discussions from the **"Visualizing Use
 
 ## Peer Evaluation: Info301 Week7 Presentation**
 
-### 1. Overall Comments  
-- **Strengths Observed:**  
-  - The presentation effectively incorporates advanced visualization techniques like SHAP feature interaction heatmaps and interactive causal graphs, showcasing a strong understanding of technical tools.  
-  - The project addresses a complex topic with clear intent and provides actionable insights using innovative methods, which enhances its relevance and impact.  
+**Plan of Action for Final Project Improvement: Next Steps Moving Forward**
 
-- **Acknowledgments:**  
-  - The use of SHAP dashboards and dynamic topic tracking reflects a creative approach to exploring data relationships and trends.  
-  - The inclusion of interactive elements adds an engaging dimension to the analysis, making the results more accessible and user-friendly.  
+Based on the insightful peer evaluations, we have identified specific areas to improve and enhance our project. Here is a detailed plan of action, structured around actionable suggestions:
 
----
+### **1. Methodology and Interpretation Enhancements**
+- **Detailed Methodology Explanation:**
+  - **Action:** Create a flowchart or schematic outlining the data pipeline, including preprocessing, feature engineering, machine learning training, and validation steps. This will clarify processes for Figures 3, 4, and the feature importance plot.
+  - **Comment Reference:** *“Include a step-by-step explanation of how the word networks were constructed” (Farhan Arshad).*  
+  - **“Include a detailed section or flowchart that outlines the machine learning process” (Rabin Mahatara).*  
 
-### 2. Suggestions for Major Revision  
-- **Area for Improvement:**  
-  - The visualizations, while technically impressive, may appear overly complex to viewers unfamiliar with SHAP or causal graphs. It is unclear how these visualizations connect to the overall narrative of the research.  
-  - The presentation lacks sufficient context or explanation for how the figures (e.g., the SHAP heatmap) contribute to answering the research question or achieving the objectives.  
-
-- **Actionable Suggestions:**  
-  - Simplify the visualizations by focusing on key insights and providing annotations or step-by-step explanations to guide the audience through the figures.  
-  - Add concise, descriptive captions for each figure to explain their purpose, methodology, and relevance to the overarching research goals. This would help the audience understand how each visualization contributes to the broader narrative.  
+- **Cluster and Feature Importance Interpretation:**
+  - **Action:** Add annotations to explain key features in the importance plot and interpret network clusters in the context of misinformation detection. Use examples from data to show implications of patterns (e.g., SUPPORTS vs. REFUTES claims).
+  - **Comment Reference:** *“Provide more context on how to interpret the clusters” (Farhan Arshad);* *“Add concise legends or annotations to the network graph” (Danrong Zhou).*
 
 ---
 
-### 3. Suggestions for Minor Revision  
-- **Enhancement Identified:**  
-  - The interactive features are compelling but may be challenging to interpret in a static presentation format. For example, the time-series SHAP dashboard and interactive causal graph would benefit from additional explanations or multiple snapshots.  
-  - Some visualizations, such as the dynamic topic tracking scatter plot, seem dense and could be simplified or presented in segments to highlight specific insights.  
+### **2. Visualization Improvements**
+- **Figure Accessibility and Clarity:**
+  - **Action:** Ensure all figures include clear legends, captions, and larger, readable font sizes. Use contrasting colors to improve clarity in network graphs and maps.  
+  - **Comment Reference:** *“Ensure all labels and text are easily readable” (Munkh-Orshikh Munkhbold);* *“The network graph could benefit from clearer legends or annotations” (Yi'an Pei).*
 
-- **Recommendations:**  
-  - Include static snapshots or alternative representations of the interactive features, focusing on key takeaways from the data.  
-  - Provide a brief legend or key for each visualization to make them more accessible to viewers with varying levels of technical expertise.  
-  - Adjust font sizes and spacing to improve readability, particularly for figures with dense content or overlapping elements.  
+- **Simplify Visualizations:**
+  - **Action:** Filter less significant nodes in network graphs and consider alternate layouts (e.g., circular or hierarchical). Highlight important nodes and edges using a consistent color palette.
+  - **Comment Reference:** *“Simplify the network graph by filtering out less significant nodes” (Yijia Sun);* *“Simplify these visualizations by highlighting key features” (Rabin Mahatara).*
 
 ---
 
-### 4. Vision for Advanced Integration  
-- **Tool or Methodology:**  
-  - Consider integrating predictive modeling or causal inference techniques to add depth to the analysis, demonstrating not just relationships but potential outcomes or interventions.  
-  - Explore the use of machine learning explainability tools like LIME or other dashboards alongside SHAP to offer complementary perspectives.  
+### **3. Discussion and Conclusion Section**
+- **Summarize Findings and Recommendations:**
+  - **Action:** Include a discussion/conclusion section that synthesizes key findings and proposes actionable strategies for combating misinformation. Link these insights directly to visualizations to enhance relevance for policymakers.
+  - **Comment Reference:** *“Include a discussion/conclusion section to talk about some general ideas or the summary” (Xiaoyi Kuang);* *“Strengthen the conclusion with specific policy recommendations” (Yi'an Pei).*
 
-- **Interdisciplinary Integration:**  
-  - Collaborate with domain experts (e.g., statisticians, data scientists, or subject-matter experts in the field of study) to refine the interpretation of the visualizations and ensure they align with real-world applications.  
-  - Include a discussion of how the insights gained from these advanced techniques could inform practical decisions or policies, tying the results to broader societal or organizational impacts.  
+---
+
+### **4. Interactivity and Advanced Tools**
+- **Interactive Visualizations:**
+  - **Action:** Add tooltips or dynamic filtering options to allow users to explore nodes and relationships interactively. Use D3.js or similar tools to improve user engagement.
+  - **Comment Reference:** *“Consider adding interactivity to the network graph” (Yi'an Pei);* *“Incorporate dynamic network visualizations” (Peng Wang).*
+
+- **Temporal and Predictive Dimensions:**
+  - **Action:** Explore temporal visualizations to track misinformation spread over time. Integrate predictive analytics to forecast high-risk regions based on demographic and cultural factors.
+  - **Comment Reference:** *“Incorporate a temporal dimension” (Yifei Wang);* *“Add predictive modeling to anticipate high-risk regions” (Shouzhifan Zhu).*
+
+---
+
+### **5. Accessibility and Audience Engagement**
+- **Glossary and Demonstrations:**
+  - **Action:** Add a glossary to explain technical terms (e.g., “modularity analysis”) and prepare a step-by-step guide to using interactive features.
+  - **Comment Reference:** *“Simplify terminology and add explanations for non-expert audiences” (Shouzhifan Zhu);* *“Include a short demonstration or step-by-step guide” (Yijia Sun).*
+
+---
+
+### **6. Interdisciplinary Integration**
+- **Collaborations for Deeper Insights:**
+  - **Action:** Engage with cognitive psychologists and sociologists to analyze behavioral aspects of misinformation. Incorporate cultural frameworks (e.g., Hofstede’s dimensions) to link data to cultural patterns.
+  - **Comment Reference:** *“Collaborate with psychologists to explore behavioral aspects” (Danrong Zhou);* *“Provide a focused analysis of cultural dimensions” (Shouzhifan Zhu).*
+
+---
+
+### **Next Steps**
+We will implement these suggestions systematically, prioritizing methodology clarity and figure accessibility. As we refine our visualizations, we aim to ensure they are not only visually engaging but also insightful, actionable, and accessible for diverse audiences. Thank you for the constructive feedback, and we look forward to presenting the improved version of our project!
