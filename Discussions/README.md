@@ -29,7 +29,7 @@ Based on the insightful peer evaluations, we have identified specific areas to i
 - **Detailed Methodology Explanation:**
   - **Action:** Create a flowchart or schematic outlining the data pipeline, including preprocessing, feature engineering, machine learning training, and validation steps. This will clarify processes for Figures 3, 4, and the feature importance plot.
   - **Comment Reference:** *“Include a step-by-step explanation of how the word networks were constructed” (Farhan Arshad).*  
-  - **“Include a detailed section or flowchart that outlines the machine learning process” (Rabin Mahatara).*  
+  - *“Include a detailed section or flowchart that outlines the machine learning process” (Rabin Mahatara).*  
 
 - **Cluster and Feature Importance Interpretation:**
   - **Action:** Add annotations to explain key features in the importance plot and interpret network clusters in the context of misinformation detection. Use examples from data to show implications of patterns (e.g., SUPPORTS vs. REFUTES claims).
