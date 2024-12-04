@@ -81,4 +81,4 @@ Based on the insightful peer evaluations, we have identified specific areas to i
 ---
 
 ### **Next Steps**
-We will implement these suggestions systematically, prioritizing methodology clarity and figure accessibility. As we refine our visualizations, we aim to ensure they are not only visually engaging but also insightful, actionable, and accessible for diverse audiences. Thank you for the constructive feedback, and we look forward to presenting the improved version of our project!
+We will implement these suggestions systematically, prioritizing methodology clarity and figure accessibility. As we refine our visualizations, we aim to ensure they are not only visually engaging but also insightful, actionable, and accessible for diverse audiences. Thank you for the constructive feedback!
