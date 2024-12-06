@@ -6,7 +6,7 @@
 
 - **Instructor**: Professor Luyao Zhang, Duke Kunshan University
 
-- **Disclaimer**: Submissions to the Final Project for INFOSCI 301: Data Visualization and Information Aesthetics at Duke Kunshan University.
+- **Disclaimer**: Submissions to the Final Project for INFOSCI 301: Data Visualization and Information Aesthetics at Duke Kunshan University final project instructed by Prof. Luyao Zhang at Duke Kunshan University in Autumn 2024.
 
 - **Acknowledgments**: We extend our sincere gratitude to Professor Luyao (Sunshine) Zhang for her invaluable supervision and insightful teaching during the INFOSCI 301 course. Her guidance and support were instrumental in shaping the development of this project. Additionally, we would like to express our thanks to our peers in INFOSCI 301 for fostering a collaborative environment that greatly enriched our educational journey.
 
