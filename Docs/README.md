@@ -12,7 +12,7 @@ Instructor: Prof. Luyao Zhang
 
 Misinformation has become a pervasive issue in our interconnected world, with profound implications for society, politics, and public discourse. The rapid spread of false or misleading information, often amplified by social media platforms, presents unique challenges that transcend geographical and cultural boundaries. These dynamics impact decision-making at personal, organizational, and governmental levels. Understanding how cultural and social factors influence the perception, spread, and detection of misinformation is essential for developing effective strategies to combat this growing phenomenon.  
 
-![Figure 1: Map of the research report. Created with Whimsical.](Visualizations/Mindmap.png)
+![Figure 1: Map of the research report. Created with Whimsical.](/Visualizations/Mindmap.png)
 
 Recent research has highlighted the complex interplay between cultural background and an individual's ability to discern truth from falsehood in news and information. Factors such as political alignment, trust in media, and social network behavior strongly shape misinformation susceptibility (Arechar et al. 2023; Guess et al. 2020). Studies exploring amplification dynamics have also emphasized the role of social context, such as user interactions and publisher-news relationships, in misinformation detection (Shu, Wang, and Liu 2019). Our research addresses these gaps by leveraging data visualization to illuminate complex relationships and patterns within misinformation dynamics.
 
@@ -22,7 +22,7 @@ Inspired by Munzner's (2014) visualization principles, we focus on creating tool
 
 ##### Geospatial Mapping for Regional and Temporal Coverage
 
-![Figure 2: Geospatial map adapted from Liu et al. (2024), showing the number of metrics covered per country in 2019.](Visualizations/Fig_2.png)
+![Figure 2: Geospatial map adapted from Liu et al. (2024), showing the number of metrics covered per country in 2019.](/Visualizations/Fig_2.png)
 
 Figure 2 depicts a geospatial map adapted from the “WISE database” by Liu et al. (2024), illustrating the number of metrics covered per country in 2019. This map leverages over one million data points spanning 218 countries and 61 country groupings, showcasing the comprehensive spatial and temporal coverage of societal progress metrics. Most countries are represented by more than eighty metrics in 2019, with lower coverage primarily observed in some African nations. The visualization’s ability to display data density across diverse regions inspired our approach to mapping misinformation susceptibility and detection accuracy.
 
