@@ -65,11 +65,16 @@ def create_elements(graph, cluster_label, reassigned_nodes, scale_factor=1.0):
         })
 
     for source, target, data in graph.edges(data=True):
+        edge_size = max(2, data["weight"] / 5)  # Normalize weight for edge size
         elements.append({
             "data": {
                 "source": source,
                 "target": target,
                 "weight": data["weight"]
+            },
+            "style": {
+                "line-color": "gray",  # Neutral edge color
+                "width": edge_size
             }
         })
 
@@ -94,7 +99,8 @@ app.layout = html.Div([
                 html.Li("Blue Nodes: SUPPORTS Cluster"),
                 html.Li("Red Nodes: REFUTES Cluster"),
                 html.Li("Node Size: Proportional to the weighted degree (importance)"),
-                html.Li("Font Size: Proportional to node size")
+                html.Li("Font Size: Proportional to node size"),
+                html.Li("Edge Size: Proportional to weight")
             ]),
         ],
         style={"padding": "10px", "border": "1px solid black", "marginBottom": "10px"}
@@ -153,7 +159,7 @@ app.layout = html.Div([
                     "font-size": "data(font_size)"  # Font size scales with node size
                 }
             },
-            {"selector": "edge", "style": {"line-color": "gray", "width": 2, "target-arrow-shape": "triangle"}}
+            {"selector": "edge", "style": {"line-color": "gray", "target-arrow-shape": "triangle"}}
         ]
     )
 ])
