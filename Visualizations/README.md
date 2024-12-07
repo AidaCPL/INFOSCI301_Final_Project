@@ -1,4 +1,4 @@
-# Results
+# Visualizations & Results
 
 This folder contains the key outputs and findings of the research project **"Visualizing User Credibility and Cultural Influences in Misinformation Detection through Social Context."** It includes various elements that capture the analysis, visualizations, and final deliverables of the project.
 

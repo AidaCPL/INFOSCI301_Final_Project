@@ -48,7 +48,7 @@ This repository focuses on research aimed at visualizing user credibility and cu
    - **`visualization_tools.py`**: Functions for creating static and interactive visualizations.
    - **`machine_learning.ipynb`**: Includes machine learning pipelines and SHAP analysis.
    - **`/map`**: HTML file for the geospatial map that one can download and run on browser.
-- **[`Results/`](Results/README.md)**: Output visualizations and analysis results.
+- **[`Visualizations/`](Visualizations/README.md)**: Output visualizations and analysis results.
 ---
 
 ## **Key Features**
@@ -134,7 +134,7 @@ pip install -r requirements.txt
 ## **Final Poster**
 <p align="center">
   <kbd>
-    <img src="Results/INFOSCI301_Final_Poster.png" alt="Final Poster" width="600"/>
+    <img src="Visualizations/INFOSCI301_Final_Poster.png" alt="Final Poster" width="600"/>
   </kbd>
 </p>
 
