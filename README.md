@@ -19,6 +19,8 @@
 
 *Figure 1: Map of the research proposal. Created with Whimsical*
 
+---
+
 ## **Table of Contents**
 * [Overview](./README.md#Overview)
 * [Repository Structure](./README.md#Repository-Structure)
@@ -27,10 +29,14 @@
 * [Applications](./README.md#Applications)
 * [Getting Started](./README.md#Getting-Started)
 * [Final Poster](./README.md#Final-Poster)
+* [Demo Videos](./README.md#Demo-Videos)
 * [Contributing](./README.md#Contributing)
 * [License](./README.md#License)
 * [References](./README.md#References)
+* [Statement of Intellectual and Professional Growth](./README.md#Statement-of-Intellectual-and-Professional-Growth)
+* [Navigation Instructions](./README.md#Navigation-Instructions)
 
+---
 
 ## **Overview**
 
@@ -48,7 +54,10 @@ This repository focuses on research aimed at visualizing user credibility and cu
    - **`visualization_tools.py`**: Functions for creating static and interactive visualizations.
    - **`machine_learning.ipynb`**: Includes machine learning pipelines and SHAP analysis.
    - **`/map`**: HTML file for the geospatial map that one can download and run on browser.
+- **[`Discussions/`](Discussions/README.md)**: Key insights, reflections, and future improvements based on project findings, the final poster, and peer evaluations.
 - **[`Visualizations/`](Visualizations/README.md)**: Output visualizations and analysis results.
+- **[`Docs/`](Docs/README.md)**: Supplementary documentation, final report.
+
 ---
 
 ## **Key Features**
@@ -60,6 +69,7 @@ This repository focuses on research aimed at visualizing user credibility and cu
   - Scatterplots for misinformation amplification patterns.
   - Network diagrams for dissemination pathways.
   - Choropleth maps for regional vulnerability analysis.
+
 ---
 
 ## **Datasets**
@@ -131,12 +141,48 @@ pip install -r requirements.txt
    python scripts/visualization_tools.py
    ```
 ---
+
 ## **Final Poster**
 <p align="center">
   <kbd>
     <img src="Visualizations/INFOSCI301_Final_Poster.png" alt="Final Poster" width="600"/>
   </kbd>
 </p>
+
+---
+
+## **Demo Video**
+The following video shows a demonstration of the 3 interactive visualizations.
+
+---
+
+## **Statement of Intellectual and Professional Growth**
+
+This project has been a transformative experience in our academic and professional journey. Through the process of integrating diverse datasets and leveraging advanced visualization techniques, we have gained a deeper understanding of how to approach complex problems with interdisciplinary tools. The hands-on work with network analysis, interactive visualizations, and machine learning has sharpened our technical skills and enriched our ability to convey complex data narratives effectively. Collaborating with our peers on this project has also enhanced our teamwork and communication abilities, preparing us for future roles in data-driven research and policy-making.
+
+The exploration of misinformation dynamics has been particularly meaningful, as it connects computational methods with real-world social challenges. The skills and insights gained through this course will undoubtedly influence our approach to future academic and professional endeavors, fostering a commitment to innovation and ethical application of data science.
+
+---
+
+## **Navigation Instructions**
+
+This repository is organized to facilitate ease of access to all components of the project. Below is an overview of where to find key resources:
+
+- **Code for Simulations, Data Processing, and Visualizations**:
+  - Located in the [`Code/`](Code/README.md) directory.
+  - Includes `data_preprocessing.ipynb` for cleaning and integrating datasets, and `visualization_tools.py` for generating the project’s visualizations.
+
+- **Sample Datasets or Processed Data**:
+  - Found in the [`Data/`](Data/README.md) folder.
+  - Contains raw and processed datasets, including Climate-FEVER and the Global Misinformation Dataset.
+
+- **Documentation for Dependencies and Environment Setup**:
+  - Detailed in the [`Docs/`](Docs/README.md) directory.
+  - Includes `requirements.txt` for library installation and a setup guide for running the visualizations.
+
+- **Pilot Visualizations or Figures**:
+  - Stored in the [`Visualizations/`](Visualizations/README.md) folder.
+  - Features static and interactive outputs of the project’s key visualizations, including geospatial maps, network diagrams, and machine learning plots.
 
 ---
 
@@ -154,4 +200,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 This project builds upon datasets and methodologies outlined in:
 - Climate-FEVER: [Dataset Paper](https://arxiv.org/abs/2005.00857)
 - Global Misinformation Dataset: [Understanding and combatting misinformation across 16 countries on six continents](https://doi.org/10.1038/s41562-023-01641-6)
-
