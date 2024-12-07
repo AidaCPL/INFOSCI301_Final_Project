@@ -1,6 +1,6 @@
 # Visualizing User Credibility and Cultural Influences in Misinformation Detection through Social Context
 
-### By: Tessa Luong and Aida Camacho Ponce de Leon
+By: Aida and Tessa
 
 **INFOSCI 301: Data Visualization and Information Aesthetics**  
 Instructor: Prof. Luyao Zhang  
