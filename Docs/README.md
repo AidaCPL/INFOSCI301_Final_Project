@@ -99,11 +99,25 @@ Two datasets were utilized:
 
 #### 5.1 Network Visualization Analysis
 
-![Figure 5: Betweenness centrality for the "Refutes" network.](/Visualizations/Fig_5.pdf)
-![Figure 6: Betweenness centrality for the "Supports" network.](/Visualizations/Fig_6.pdf)
-![Figure 7: Modularity-colored graph for the "Refutes" network.](/Visualizations/Fig_7.pdf)
-![Figure 8: Modularity-colored graph for the "Supports" network.](/Visualizations/Fig_8.pdf)
+![Figure 5: Betweenness centrality for the "Refutes" network.](/Visualizations/Fig_5.png)
+
+[Figure 5: Betweenness centrality for the "Refutes" network.](/Visualizations/Fig_5.pdf)
+
+![Figure 6: Betweenness centrality for the "Supports" network.](/Visualizations/Fig_6.png)
+
+[Figure 6: Betweenness centrality for the "Supports" network.](/Visualizations/Fig_6.pdf)
+
+![Figure 7: Modularity-colored graph for the "Refutes" network.](/Visualizations/Fig_7.png)
+
+[Figure 7: Modularity-colored graph for the "Refutes" network.](/Visualizations/Fig_7.pdf)
+
+![Figure 8: Modularity-colored graph for the "Supports" network.](/Visualizations/Fig_8.png)
+
+[Figure 8: Modularity-colored graph for the "Supports" network.](/Visualizations/Fig_8.pdf)
+
 ![Figure 9: Static image of the Plotly interactive network combining “Supports” and “Refutes” data.](/Visualizations/Fig_9.png)
+
+
 #### 5.2 Machine Learning Key Features
 
 ![Figure 11: Feature importance plot from Random Forest model.](/Visualizations/Fig_11.png)
