@@ -29,7 +29,7 @@
 * [Applications](./README.md#Applications)
 * [Getting Started](./README.md#Getting-Started)
 * [Final Poster](./README.md#Final-Poster)
-* [Demo Videos](./README.md#Demo-Videos)
+* [Demo Videos](./README.md#demo-video)
 * [Contributing](./README.md#Contributing)
 * [License](./README.md#License)
 * [References](./README.md#References)
