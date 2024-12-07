@@ -8,7 +8,22 @@
 
 - **Disclaimer**: Submissions to the Final Project for INFOSCI 301: Data Visualization and Information Aesthetics at Duke Kunshan University final project instructed by Prof. Luyao Zhang at Duke Kunshan University in Autumn 2024.
 
-- **Acknowledgments**: We extend our sincere gratitude to Professor Luyao (Sunshine) Zhang for her invaluable supervision and insightful teaching during the INFOSCI 301 course. Her guidance and support were instrumental in shaping the development of this project. Additionally, we would like to express our thanks to our peers in INFOSCI 301 for fostering a collaborative environment that greatly enriched our educational journey.
+- **Acknowledgments**: 
+
+This project represents the culmination of collaborative effort, thoughtful guidance, and the invaluable support of various individuals and resources. We wish to express our sincere gratitude to the following:
+   - **Professor and Course Support**
+      - **Professor Luyao (Sunshine) Zhang**: Your insightful guidance, engaging lectures, and unwavering support throughout the INFOSCI 301: Data Visualization and Information Aesthetics course were instrumental in shaping this project. Your encouragement to push the boundaries of our learning was deeply inspiring.
+      - **Classmates**: A special thanks to our peers in INFOSCI 301 for fostering a collaborative and supportive learning environment. Your feedback, discussions, and shared enthusiasm greatly enriched the quality of our project.
+   - **Open-Source Tools and Libraries** This project heavily relied on the contributions of the open-source community. The following tools and frameworks were critical to our success:
+      - **Python Libraries**:
+         - `pandas`, `numpy`, and `matplotlib` for data manipulation and basic visualizations.
+         - `seaborn` and `plotly` for enhanced plotting capabilities and interactive visuals.
+         - `networkx` and `dash` for creating network diagrams and web-based visualizations.
+      - **Gephi**: For advanced network analysis and modularity-based clustering.
+      - **GitHub**: For version control, collaboration, and hosting the repository. 
+   - **Climate-FEVER Dataset**: A pivotal dataset for misinformation analysis, available through the Sustainable Finance Lab at the University of Zurich.
+   - **Global Misinformation Dataset**: Behavioral and demographic data, which provided valuable insights into misinformation susceptibility.
+   - **AIGC Tools**: Tools such as ChatGPT contributed to structuring, refining, and enhancing our documentation and research outputs.
 
 - **Project Summary**:
 <p align="center">
