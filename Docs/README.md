@@ -26,6 +26,8 @@ Inspired by Munzner's (2014) visualization principles, we focus on creating tool
 
 ![Figure 2: Geospatial map adapted from Liu et al. (2024), showing the number of metrics covered per country in 2019.](/Visualizations/Fig_2.png)
 
+*Figure 2: Geospatial map adapted from Liu et al. (2024), showing the number of metrics covered per country in 2019.*
+
 Figure 2 depicts a geospatial map adapted from the “WISE database” by Liu et al. (2024), illustrating the number of metrics covered per country in 2019. This map leverages over one million data points spanning 218 countries and 61 country groupings, showcasing the comprehensive spatial and temporal coverage of societal progress metrics. Most countries are represented by more than eighty metrics in 2019, with lower coverage primarily observed in some African nations. The visualization’s ability to display data density across diverse regions inspired our approach to mapping misinformation susceptibility and detection accuracy.
 
 ##### Keyword Interactions and Clustering
