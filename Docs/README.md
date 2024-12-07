@@ -28,7 +28,7 @@ Figure 2 depicts a geospatial map adapted from the “WISE database” by Liu et
 
 ##### Keyword Interactions and Clustering
 
-![Figure 3: Network diagram by Cano-Marin et al. (2023), illustrating thematic clusters and connections between concepts.](Visualizations/fig_3.jpg)
+![Figure 3: Network diagram by Cano-Marin et al. (2023), illustrating thematic clusters and connections between concepts.](/Visualizations/fig_3.jpg)
 
 Figure 3 showcases a network diagram by Cano-Marin et al. (2023), which maps connections between key concepts such as “health,” “information,” and “analysis.” This visualization’s use of color-coded clusters and linkages inspired our approach to representing misinformation dynamics visually. By grouping terms into thematic clusters, we emphasize how misinformation propagates through tightly connected social or cultural groups. Adopting similar techniques, we utilize varied node sizes and edge thicknesses to indicate misinformation susceptibility and detection accuracy across regions and networks. This method uncovers hidden dynamics in misinformation spread, making complex patterns accessible and actionable.
 
@@ -99,14 +99,14 @@ Two datasets were utilized:
 
 #### 5.1 Network Visualization Analysis
 
-![Figure 5: Betweenness centrality for the "Refutes" network.](Visualizations/Fig_5.pdf)
-![Figure 6: Betweenness centrality for the "Supports" network.](Visualizations/Fig_6.pdf)
-![Figure 7: Modularity-colored graph for the "Refutes" network.](Visualizations/Fig_7.pdf)
-![Figure 8: Modularity-colored graph for the "Supports" network.](Visualizations/Fig_8.pdf)
-![Figure 9: Static image of the Plotly interactive network combining “Supports” and “Refutes” data.](Visualizations/Fig_9.png)
+![Figure 5: Betweenness centrality for the "Refutes" network.](/Visualizations/Fig_5.pdf)
+![Figure 6: Betweenness centrality for the "Supports" network.](/Visualizations/Fig_6.pdf)
+![Figure 7: Modularity-colored graph for the "Refutes" network.](/Visualizations/Fig_7.pdf)
+![Figure 8: Modularity-colored graph for the "Supports" network.](/Visualizations/Fig_8.pdf)
+![Figure 9: Static image of the Plotly interactive network combining “Supports” and “Refutes” data.](/Visualizations/Fig_9.png)
 #### 5.2 Machine Learning Key Features
 
-![Figure 11: Feature importance plot from Random Forest model.](Visualizations/Fig_11.png)
+![Figure 11: Feature importance plot from Random Forest model.](/Visualizations/Fig_11.png)
 
 Machine learning analysis revealed education level, CRT scores, and social media usage as key predictors of misinformation susceptibility. These insights emphasize the importance of tailored media literacy programs and critical thinking education.
 
