@@ -168,6 +168,8 @@ pip install -r requirements.txt
 
 ## **Demo Video**
 The following video shows a demonstration of the 3 interactive visualizations.
+https://duke.box.com/s/jfbl3fo9qktoyiodwvlqmhp6uciqrwcl
+
 
 ---
 
